@@ -1,0 +1,9 @@
+flask
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+xgboost
+lightgbm
+gunicorn
+
